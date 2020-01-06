@@ -1,2 +1,2 @@
 # simple-socket
-project for pratice socket.io with some programming language
+project for practice socket.io with some programming language
